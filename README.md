@@ -30,7 +30,7 @@ This plugin loads when a file with file name with the syntax of:
 If you don't have a preferred installation method, I recommend installing [pathogen.vim](https://github.com/tpope/vim-pathogen), and then simply copy and paste:
 
     cd ~/.vim/bundle
-    git clone https://JohnKaul@bitbucket.org/JohnKaul/
+    git clone https://github.com/JohnKaul/vimcryptsafe.vim.git
 
 Otherwise you can always download this and place the `vimcryptsafe.vim` file in the `plugin` directory. 
 
